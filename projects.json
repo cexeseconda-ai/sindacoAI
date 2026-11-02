@@ -1,0 +1,156 @@
+[
+  {
+    "id": "teatro",
+    "name": "Teatro Romano",
+    "area": "Cultura e patrimonio",
+    "status": "Passaggio progettuale",
+    "tone": "amber",
+    "date": "18 settembre 2026",
+    "num": "600 posti",
+    "numlabel": "Arena prevista",
+    "intro": "Parere favorevole della Conferenza di servizi sul progetto esecutivo per completare la rifunzionalizzazione del Teatro Romano.",
+    "facts": [
+      "Il progetto coniuga tutela del bene culturale, arena per spettacoli all’aperto da 600 posti e futura musealizzazione di alcuni reperti.",
+      "La nota comunica un parere favorevole al progetto esecutivo, non l’avvenuta conclusione dei lavori.",
+      "Il Comune indicava ulteriori adempimenti tecnici e amministrativi prima dell’avvio dei lavori."
+    ],
+    "watch": [
+      "Verificare gli atti successivi al parere favorevole.",
+      "Acquisire un cronoprogramma aggiornato e l’eventuale data di avvio dei lavori."
+    ],
+    "source": "https://pagamentipa.comune.teramo.it/it/news/teatro-romano-la-conferenza-di-servizi-da-parere-favorevole-al-progetto-esecutivo-per-il-completamento-dellintervento-di-rifunzionalizzazione",
+    "sourceTitle": "Comune di Teramo · 18/09/2026"
+  },
+  {
+    "id": "stazione",
+    "name": "Piazza della Stazione",
+    "area": "Rigenerazione urbana",
+    "status": "Piazza inaugurata",
+    "tone": "green",
+    "date": "14 luglio 2026",
+    "num": "€ 26 mln",
+    "numlabel": "Investimento complessivo",
+    "intro": "Il Comune comunica l’inaugurazione della nuova piazza della stazione ferroviaria, parte di una riqualificazione più ampia.",
+    "facts": [
+      "La nuova piazza è stata inaugurata il 13 luglio 2026, secondo la nota pubblicata il 14 luglio.",
+      "I 26 milioni di euro si riferiscono all’intervento complessivo di riqualificazione, non soltanto alla piazza.",
+      "La nota indica il fabbricato viaggiatori come successiva fase dell’intervento."
+    ],
+    "watch": [
+      "Verificare l’avanzamento della fase relativa al fabbricato viaggiatori.",
+      "Non confondere inaugurazione della piazza con completamento di tutte le opere della stazione."
+    ],
+    "source": "https://comune.teramo.it/index.php/it/news/145395/inaugurata-la-nuova-piazza-della-stazione-ferroviaria",
+    "sourceTitle": "Comune di Teramo · 14/07/2026"
+  },
+  {
+    "id": "savini",
+    "name": "Scuola Francesco Savini",
+    "area": "Scuole e sicurezza",
+    "status": "Avvio lavori comunicato",
+    "tone": "amber",
+    "date": "16 aprile 2026",
+    "num": "Apr 2026",
+    "numlabel": "Consegna lavori",
+    "intro": "Consegna dei lavori di ricostruzione della scuola Savini e contestuale avvio del cantiere comunicati dal Comune.",
+    "facts": [
+      "Il Comune ha indicato il Consorzio Stabile Rennova come aggiudicatario.",
+      "Il progetto comprende miglioramento sismico, adeguamento energetico, impiantistico e strutturale.",
+      "Sono previsti interventi di restauro conservativo in relazione al vincolo storico sull’immobile."
+    ],
+    "watch": [
+      "Richiedere stato avanzamento lavori e scadenze aggiornate.",
+      "Verificare eventuali variazioni al cronoprogramma."
+    ],
+    "source": "https://www.comune.teramo.it/it/news/scuola-savini-consegnati-i-lavori-con-il-contestuale-avvio-del-cantiere",
+    "sourceTitle": "Comune di Teramo · 16/04/2026"
+  },
+  {
+    "id": "castello",
+    "name": "Castello Della Monica",
+    "area": "Cultura e patrimonio",
+    "status": "Recupero avanzato",
+    "tone": "green",
+    "date": "28 febbraio 2026",
+    "num": "2022",
+    "numlabel": "Prima apertura alla città",
+    "intro": "Il Comune comunica la conclusione del restauro della facciata e descrive interventi di consolidamento e adeguamento degli spazi.",
+    "facts": [
+      "Il Comune indica la prima apertura alla cittadinanza nel 2022 dopo il primo lotto.",
+      "La nota del 28 febbraio 2026 comunica il completamento del restauro della facciata nell’ambito del secondo lotto.",
+      "Alla data della nota erano ancora indicate alcune rifiniture residue, non ostative alla fruibilità."
+    ],
+    "watch": [
+      "Verificare l’esito delle rifiniture e la riconsegna definitiva del cantiere.",
+      "Per orari e accessi consultare comunicazioni museali aggiornate."
+    ],
+    "source": "https://www.comune.teramo.it/index.php/it/news/1961296",
+    "sourceTitle": "Comune di Teramo · 28/02/2026"
+  },
+  {
+    "id": "sisma",
+    "name": "Ricostruzione post-sisma",
+    "area": "Ricostruzione",
+    "status": "Monitoraggio dati",
+    "tone": "blue",
+    "date": "25 agosto 2026",
+    "num": "87,30%",
+    "numlabel": "Pratiche private concluse",
+    "intro": "Il Comune pubblica un bilancio della ricostruzione privata e pubblica basato su dati riferiti al 17 agosto 2026.",
+    "facts": [
+      "Secondo la nota, al 17 agosto 2026 risultavano concluse 756 pratiche su 866 presentate.",
+      "Il dato dell’87,30% riguarda le pratiche relative a edilizia privata e attività produttive, non la percentuale dei cantieri pubblici completati.",
+      "La stessa nota segnala ulteriori difficoltà per alcune opere pubbliche, anche in presenza di vincoli."
+    ],
+    "watch": [
+      "Acquisire report USR più recenti prima di comunicare percentuali aggiornate.",
+      "Distinguere pratiche concluse, contributi liquidati e lavori materialmente completati."
+    ],
+    "source": "https://www.comune.teramo.it/it/news/145395/ricostruzione-i-dati-a-dieci-anni-dal-sisma",
+    "sourceTitle": "Comune di Teramo · 25/08/2026"
+  },
+  {
+    "id": "tancredi",
+    "name": "Polo scolastico Luca Tancredi",
+    "area": "Scuole e sicurezza",
+    "status": "Inaugurato",
+    "tone": "green",
+    "date": "15 settembre 2025",
+    "num": "280",
+    "numlabel": "Studenti previsti",
+    "intro": "Nel settembre 2025 è stato inaugurato il polo scolastico Luca Tancredi, già Fornaci-Cona.",
+    "facts": [
+      "La nota riporta un intervento di demolizione e ricostruzione in 199 giorni.",
+      "L’investimento complessivo indicato è pari a 2.915.842,58 euro.",
+      "Il polo è destinato a infanzia, primaria e secondaria di primo grado."
+    ],
+    "watch": [
+      "Eventuali sviluppi del secondo lotto richiedono fonti più recenti.",
+      "Non interpretare la capienza indicata come iscritti effettivi."
+    ],
+    "source": "https://www.comune.teramo.it/index.php/it/news/inaugurato-il-nuovo-polo-scolastico-luca-tancredi?type=2",
+    "sourceTitle": "Comune di Teramo · 15/09/2025"
+  },
+  {
+    "id": "mercato",
+    "name": "Mercato Coperto · Piazza Verdi",
+    "area": "Rigenerazione urbana",
+    "status": "Cantiere documentato",
+    "tone": "amber",
+    "date": "7 maggio 2024",
+    "num": "2024",
+    "numlabel": "Avvio interventi documentato",
+    "intro": "Il Comune ha pubblicato provvedimenti temporanei di viabilità legati ai lavori di riqualificazione del Mercato Coperto.",
+    "facts": [
+      "L’intervento documentato riguarda riqualificazione e adeguamento sismico, energetico, impiantistico e funzionale.",
+      "Le note del 2024 disciplinano traffico e sosta in prossimità del cantiere.",
+      "Le fonti qui incluse non attestano lo stato esatto del cantiere al novembre 2026."
+    ],
+    "watch": [
+      "Acquisire cronoprogramma e atti aggiornati.",
+      "Verificare importi, eventuali proroghe e stato attuale prima di un briefing operativo."
+    ],
+    "source": "https://www.comune.teramo.it/index.php/it/news/147245/lavori-al-mercato-coperto-provvedimenti-per-il-traffico",
+    "sourceTitle": "Comune di Teramo · 01/02/2024"
+  }
+]
